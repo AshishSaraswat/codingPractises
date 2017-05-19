@@ -11,7 +11,6 @@ public class MergeSort {
 	
 	public static void main(String[] args) {
 		new MergeSort().callMerge();
-		System.out.println();
 	}
 
 	private void callMerge() {
